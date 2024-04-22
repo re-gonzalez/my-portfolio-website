@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(7, 0, 57);
+    margin: 0;
+    font-family: Arial;
+    color: white;
+}
+
+#header-div {
+    border: solid 1px white;
+}
+
+#sub-header-div {
+    border: solid 1px lightgreen;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.sub-header-section-div {
+    margin: 0 10px;
+}
+
+.sub-header-section-div>h5 {
+    cursor: pointer;
+}
+
+.sub-header-section-div>h5:hover {
+    text-decoration: underline;
+}
