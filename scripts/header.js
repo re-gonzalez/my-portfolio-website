@@ -9,7 +9,7 @@ document.querySelector('.js-header-div').innerHTML = `
         <h4 id="linkedin-profile-text" onclick="
             var url = 'http://linkedin.com/in/ricardo-gonzalez-544100184';
             var win = window.open(url, '_blank');
-            wind.focus();
+            win.focus();
         ">
             LinkedIn Profile
         </h4>
