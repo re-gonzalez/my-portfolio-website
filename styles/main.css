@@ -49,3 +49,13 @@ body {
 #linkedin-profile-text:hover {
     text-decoration: underline;
 }
+
+.body-div{
+    border: solid 1px white;
+    display: flex;
+    flex-direction: column;
+}
+
+.body-title-div{
+    text-align: center;
+}
