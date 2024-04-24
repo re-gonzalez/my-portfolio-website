@@ -35,9 +35,9 @@
 }
 
 .cover-pic-div {
-	width: 350px;
-	height: 350px;
-	margin: 40px;
+	width: 22vw;
+	height: 22vw;
+	margin: 1vw;
 	cursor: pointer;
 	background-color: black;
 	border-radius: 20px;
@@ -46,7 +46,6 @@
 	display: flex;
 	align-items: center;
 	text-align: center;
-	z-index: 100;
 }
 
 .cover-pic {
@@ -60,11 +59,10 @@
 	left: 50%;
 	translate: -50%;
 	color: rgba(255,255,255,0);
-	z-index: 1;
 }
 
 .cover-pic:hover {
-	opacity: 0.30;
+	opacity: 0.25;
 }
 
 .cover-pic-div:hover .hide {
