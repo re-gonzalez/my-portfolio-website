@@ -25,31 +25,21 @@ document.querySelector('.js-sub-header-div').innerHTML = `
     <div class="sub-header-section-div" onclick="
         document.location = 'hybrid-rocket.html';
     ">
-        <h5>Hybrid Rocket Propulsion</h5>
+        <h5>Education</h5>
     </div>
     <div class="sub-header-section-div" onclick="
         document.location = 'systems-engineering.html';
     ">
-        <h5>Systems Engineering (CubeSat)</h5>
+        <h5>Experience</h5>
     </div>
     <div class="sub-header-section-div" onclick="
         document.location = 'embedded-systems.html';
     ">
-        <h5>Embedded Systems</h5>
+        <h5>Projects</h5>
     </div>
     <div class="sub-header-section-div" onclick="
         document.location = 'structures.html';
     ">
-        <h5>Spacecraft Structures</h5>
-    </div>
-    <div class="sub-header-section-div" onclick="
-        document.location = 'adcs.html';
-    ">
-        <h5>Attitude Determination and Controls</h5>
-    </div>
-    <div class="sub-header-section-div" onclick="
-        document.location = 'software-web.html';
-    ">
-        <h5>Software and Web Development</h5>
+        <h5>Resume</h5>
     </div>
 `;
