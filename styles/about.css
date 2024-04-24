@@ -17,6 +17,15 @@
 
 #about-intro-right-div {
 	width: 40%;
+	line-height: 1.5;
+}
+
+#about-expertise-div {
+	margin-top: 50px;
+}
+
+#about-expertise-title-div {
+	text-align: center;
 }
 
 .about-expertise-row-div {
