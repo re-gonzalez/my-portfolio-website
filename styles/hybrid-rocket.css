@@ -18,8 +18,9 @@
 }
 
 #experiment-firing-pic {
-    width: 95%;
+    width: 80%;
     cursor: pointer;
+    border-radius: 20px;
 }
 #hybrid-div-2 {
     border: solid 2px green;
